@@ -5,8 +5,11 @@
 Формирование ответа: Возвращается список материалов и их распределение по складам для каждого продукта.
 
 Запрос POST /api/distribute-materials/
+
 Тело запроса должно быть в формате JSON и содержать массив объектов с данными о продуктах:
 Пример запроса
+
+
 {
   "products": [
     {
@@ -19,8 +22,21 @@
     }
   ]
 }
-Этот пример показывает, как сохранить данные для моделей Product, Material, Warehouse и ProductMaterials.
-![api_product.png](api_product.png) - Product
-![api_material.png](api_material.png) - Material
-![api_warehouse.png](api_warehouse.png) - Warehouse
-![api_productmaterial.png](api_productmaterial.png) - ProductMaterials
+
+
+пример как сохранить данные для моделей Product, Material, Warehouse и ProductMaterials.
+- Product
+
+![api_product.png](api_product.png)
+
+
+- Material
+
+![api_material.png](api_material.png)
+- Warehouse
+
+![api_warehouse.png](api_warehouse.png) 
+
+- ProductMaterials
+
+![api_productmaterial.png](api_productmaterial.png)
