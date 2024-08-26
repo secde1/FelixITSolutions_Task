@@ -19,5 +19,8 @@
     }
   ]
 }
-Этот пример показывает, как сохранить данные для моделей Product, Material, Warehouse и ProductMaterials. 
-![img.png](img.png)
+Этот пример показывает, как сохранить данные для моделей Product, Material, Warehouse и ProductMaterials.
+![api_product.png](api_product.png) - Product
+![api_material.png](api_material.png) - Material
+![api_warehouse.png](api_warehouse.png) - Warehouse
+![api_productmaterial.png](api_productmaterial.png) - ProductMaterials
