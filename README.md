@@ -25,14 +25,15 @@
 
 
 пример как сохранить данные для моделей Product, Material, Warehouse и ProductMaterials.
+- Material
+
+![api_material.png](api_material.png)
+
 - Product
 
 ![api_product.png](api_product.png)
 
 
-- Material
-
-![api_material.png](api_material.png)
 - Warehouse
 
 ![api_warehouse.png](api_warehouse.png) 
